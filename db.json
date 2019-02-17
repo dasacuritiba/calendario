@@ -8,5 +8,12 @@
 		{ "data": "28/02/2019 - 5ª Feira", "tema": "Livro D.A.S.A. – Pág. 295" },
 		{ "data": "07/03/2019 - 3ª Feira", "tema": "2ª Passo" },
 		{ "data": "12/03/2019 - 5ª Feira", "tema": "Reunião de Serviço" }
-	]
+	],
+	"comments": [
+	    	{ "id": 1, "body": "some comment", "postId": 1 },
+	    	{ "id": 2, "body": "some comment", "postId": 1 }
+	],
+	"profile": {
+	    	"name": "typicode"
+	}
 }
